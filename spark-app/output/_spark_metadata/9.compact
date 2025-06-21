@@ -1,0 +1,11 @@
+v1
+{"path":"file:///opt/bitnami/spark-app/output/part-00000-f0562ba0-ee95-4047-a0c0-95b740a948ea-c000.snappy.parquet","size":78522,"isDir":false,"modificationTime":1750471926847,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/bitnami/spark-app/output/part-00000-f95abd10-f201-4694-977b-322bbd453b6d-c000.snappy.parquet","size":248537,"isDir":false,"modificationTime":1750471930967,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/bitnami/spark-app/output/part-00000-33a19ba1-4504-4780-8aee-64c4ebc2552e-c000.snappy.parquet","size":7158,"isDir":false,"modificationTime":1750471937873,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/bitnami/spark-app/output/part-00000-1512a0e9-0d05-4725-bc93-06ecb950ddde-c000.snappy.parquet","size":307080,"isDir":false,"modificationTime":1750471940902,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/bitnami/spark-app/output/part-00000-8ed835ab-eb51-41ad-af7d-8d65bd9e6b8b-c000.snappy.parquet","size":7163,"isDir":false,"modificationTime":1750471955399,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/bitnami/spark-app/output/part-00000-ac9d059b-a655-44e7-8764-e0aa12c74b69-c000.snappy.parquet","size":306992,"isDir":false,"modificationTime":1750471958396,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/bitnami/spark-app/output/part-00000-8265b839-5c17-4631-8cc2-a02592d0953d-c000.snappy.parquet","size":5332,"isDir":false,"modificationTime":1750471972561,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/bitnami/spark-app/output/part-00000-2b2058fe-9e87-4071-b738-c00b6ee95062-c000.snappy.parquet","size":307625,"isDir":false,"modificationTime":1750471975289,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/bitnami/spark-app/output/part-00000-4c3a1f4a-79d0-4583-9f93-ac72ba1b7d1e-c000.snappy.parquet","size":7134,"isDir":false,"modificationTime":1750471990258,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/bitnami/spark-app/output/part-00000-00bf99f0-bafc-466a-8982-45198b3c3578-c000.snappy.parquet","size":309387,"isDir":false,"modificationTime":1750471993112,"blockReplication":1,"blockSize":33554432,"action":"add"}

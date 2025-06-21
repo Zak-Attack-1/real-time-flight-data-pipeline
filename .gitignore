@@ -1,0 +1,4 @@
+postgres_data/
+superset/
+*.pyc
+__pycache__/
